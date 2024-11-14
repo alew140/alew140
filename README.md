@@ -44,19 +44,16 @@ contract TokenVesting {
     // ... más código aquí
 }
 ```
-[Ver más](https://github.com/alew140/proyecto1)
 
 ### 🔄 DEX Implementation
 - AMM personalizado
 - Gestión de liquidez
 - Swaps optimizados
-[Ver proyecto](https://github.com/alew140/proyecto2)
 
 ### 🏆 Token Staking
 - Staking con recompensas dinámicas
 - Timelock implementado
 - Pruebas exhaustivas
-[Ver proyecto](https://github.com/alew140/proyecto3)
 
 ## 📈 Estadísticas GitHub
 
@@ -83,13 +80,8 @@ contract Experience {
 - 🐦 Twitter: [@alew140](https://twitter.com/alew140)
 - 💼 LinkedIn: [@soy_alew](https://linkedin.com/in/soy_alew)
 - 📧 Email: [contacto@alew140.com](mailto:contacto@alew140.com)
-- 💬 Discord: @soy_alew
+- 💬 Discord: @soy_alew id: 863576286000316416
 
-## 💡 Artículos & Contribuciones
-
-- [Optimización de Gas en Solidity](https://alew140.com/blog/gas-optimization)
-- [Patrones de Seguridad en Smart Contracts](https://alew140.com/blog/security)
-- [Mejores Prácticas en DeFi](https://alew140.com/blog/defi-best-practices)
 
 ---
 
