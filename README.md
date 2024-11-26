@@ -1,92 +1,88 @@
+# 👋 Alejandro Pereira
+### Full Stack Developer & Tech Content Creator
 
-## 👋 Hola, soy Alejandro Pereira | Web3 Developer 🚀
-
-> Y esta es mi historia de superación y búsqueda de redención en la industria blockchain.
-
-[![GitHub followers](https://img.shields.io/github/followers/alew140?style=social)](https://github.com/alew140)
-[![Twitter](https://img.shields.io/twitter/follow/alew140?style=social)](https://twitter.com/alew140)
-
-## 📖 Mi Historia
-
-Todo empezó con un proyecto que sonaba increíble. Ideales de transparencia, descentralización, el paquete completo. Trabajé con todo mi esfuerzo junto al equipo de desarrollo. Mis smart contracts manejaron más de $100k en volumen y sirvieron a más de 2,000 usuarios.
-
-Con el tiempo, empecé a notar cosas que no me cerraban. Tomé la decisión difícil de irme, aunque significaba dejar atrás años de trabajo. Solo me llevé lo justo: mi sueldo, acorde a mercado por el trabajo realizado.
-
-La confirmación del rugpull llegó de la peor manera: víctimas empezaron a contactarme buscando ayuda.
-
-**Pero esta no es una historia de fracaso. Es una historia de aprendizaje y redención.**
-
-## 💪 Lo Que Me Hace Único
-
-```solidity
-contract MyJourney {
-    string public constant LEARNED = "The hard way";
-    string public constant STRENGTH = "Battle-tested developer";
-    
-    function whyTrustMe() public pure returns (string[] memory) {
-        return [
-            "He visto el lado oscuro y elegí la luz",
-            "Experiencia real con +$1M en TVL",
-            "Capacidad de detectar red flags",
-            "Compromiso inquebrantable con la transparencia"
-        ];
-    }
-}
-```
-
-## 🛠️ Experiencia Forjada en el Fuego
-
-- **Smart Contracts:** Desarrollo en Solidity con enfoque en transparencia
-- **DeFi:** Sistemas de staking y farming probados en producción
-- **Comunicación:** Presentaciones técnicas ante +200 personas
-- **Perspectiva Única:** Sé identificar señales de alarma en proyectos
-
-## 🎯 Lo Que Busco Ahora
-
-Busco un equipo que:
-- Construya con propósito real
-- Valore la transparencia tanto como yo
-- Entienda que las cicatrices nos hacen más fuertes
-- Quiera cambiar la narrativa de Web3
-
-## 🌟 Por Qué Darme Una Oportunidad
-
-1. **Experiencia Real:** No solo código, sino vivencias que me han hecho más fuerte
-2. **Perspectiva Única:** Sé identificar red flags y proteger a los usuarios
-3. **Habilidades Probadas:** Mis contratos han manejado volúmenes significativos
-4. **Compromiso:** Con la transparencia y la construcción de confianza
-
-## 🗣️ Mi Voz en la Comunidad
-
-```javascript
-const myCommitment = {
-  mission: "Transformar Web3 en un espacio más seguro",
-  approach: "Código limpio + Transparencia total",
-  promise: "No más proyectos turbios, solo valor real"
-}
-```
-
-## 📱 Conecta Conmigo
-
-- 🌐 Website: [alew140.com](https://alew140.com)
-- 🐦 Twitter: [@alew140](https://twitter.com/alew140)
-- 💼 LinkedIn: [@soy_alew](https://linkedin.com/in/soy_alew)
-- 💬 Discord: @soy_alew
-
-## 💡 Mi Promesa
-
-> "Porque no todo es dinero. Se trata de construir la sociedad digital que queremos ver."
-
-## 🤝 ¿Por Qué Contratarme?
-
-Si buscas un desarrollador que:
-- Ha visto el lado oscuro de Web3 y eligió la luz
-- Tiene las cicatrices y la experiencia para probarlo
-- Está comprometido con la construcción de algo significativo
-- Aporta perspectiva única y valiosa
-
-**Hablemos sobre cómo puedo aportar valor a tu equipo. Si tienes dudas de programacion tambien escribeme. "no todo se trata de dinero" x2**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soy_alew)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@soy_alew)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alew140)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alew140.com)
 
 ---
 
-📬 "Las segundas oportunidades no son solo para redimirse, son para construir algo mejor. Dame la oportunidad de demostrártelo."
+## 🚀 About Me
+Full Stack Developer especializado en crear soluciones web modernas y eficientes. Combino desarrollo tradicional con tecnologías blockchain, siempre enfocado en código limpio y buenas prácticas. Divulgador tecnológico activo, compartiendo conocimientos y experiencias con la comunidad de desarrolladores.
+
+```javascript
+const techStack = {
+    frontend: {
+        js: ['React', 'Next.js', 'Vanilla JavaScript', 'TypeScript'],
+        css: ['Tailwind', 'Bootstrap', 'CSS'],
+        ui: ['Responsive Design', 'Material-UI', 'Styled Components','Shadcn']
+    },
+    backend: {
+        node: ['Express', 'Next.js'],
+        php: ['WordPress', 'PHP Vanilla'],
+        databases: ['MySQL', 'MongoDB', 'Firebase','PostGresql']
+    },
+    web3: {
+        blockchain: ['Solidity', 'Web3.js', 'DeFi Protocols'],
+        tools: ['Hardhat', 'Truffle', 'Open Zeppelin']
+    },
+    infrastructure: {
+        servers: ['Linux', 'Apache', 'Nginx'],
+        tools: ['Git', 'GitHub'],
+        cloud: ['Firebase', 'Digital Ocean']
+    }
+};
+```
+
+## 💼 What I Do
+
+### 👨‍💻 Development
+- Full Stack web applications con Next.js
+- Soluciones WordPress personalizadas
+- APIs RESTful
+- Desarrollo Web3 & blockchain
+- Firebase integrations
+
+### 📚 Tech Education
+- Programming tips [@soy_alew](https://www.threads.net/@soy_alew)
+- Web development best practices
+- Tutoriales de código
+- Building tech community
+
+## 🛠️ Technologies
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alew140&show_icons=true&theme=radical)
+
+Recien arranque mi ruta en github alimentarlo para que mi trabajo personal se note.
+
+## 🌟 Featured Projects
+- **Full Stack Apps**: React + Node.js || PHP
+- **Custom WordPress Solutions**: Themes y plugins
+- **DeFi Applications**: $1M+ en transacciones gestionadas
+- **Serverless Applications**: Firebase integrations
+
+## 🎯 Current Focus
+- Desarrollo de aplicaciones con Next.js
+- Creación de contenido educativo
+- Proyectos Web3
+- Soluciones serverless con Firebase
+
+## 📬 Let's Connect
+- 💼 Abierto a colaboraciones
+- 📧 Contacto profesional: [LinkedIn](https://linkedin.com/in/soy_alew)
+- 📚 Tips diarios: [Threads](https://www.threads.net/@soy_alew)
+- 💬 Discord: @soy_alew
+
+---
+
+> "Compartiendo conocimiento y construyendo el futuro web, un código a la vez."
