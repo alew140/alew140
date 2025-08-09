@@ -5,17 +5,15 @@
 
 Mi filosofía: *"Keep it stupidly simple, but brilliantly effective"* - La verdadera complejidad está en hacer que las cosas parezcan simples.
 
-## 💻 Tech Stack
+## 💻 Tech Stack ( Full Skill )
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -79,10 +77,10 @@ Solución elegante para un problema frustrante en entornos de virtualización.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alew140&layout=compact&theme=dark)
 
 ## 🎯 Focus Actual
-- 🔨 **Construyendo** herramientas que ahorran tiempo y mejoran workflows
-- 📚 **Aprendiendo** arquitecturas modernas y mejores prácticas
-- 🤝 **Colaborando** en proyectos open source con impacto real
-- 🚀 **Explorando** nuevas tecnologías y paradigmas de programación
+- 🔨 **Construyendo** Motor Grafico para juegos en Rust.
+- 📚 **Aprendiendo** arquitecturas modernas y mejores prácticas Rust.
+- 🤝 **Colaborando** en proyectos open source con utilidad real 
+- 🚀 **Explorando** nuevas tecnologías, algoritmos y paradigmas de programación
 
 ## 💡 Filosofía de Desarrollo
 ```javascript
